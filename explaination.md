@@ -45,3 +45,15 @@ l7
 
 ![alt text](image-15.png)
 
+l9
+
+error due to non passing argument
+![alt text]({C6873849-A7E5-40BF-B8BC-F81FC53A20C7}.png)
+
+wired behaviour
+
+![alt text](image-16.png)
+
+now we can pass more argument
+
+![alt text](image-17.png)
