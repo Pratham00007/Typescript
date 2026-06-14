@@ -57,3 +57,17 @@ wired behaviour
 now we can pass more argument
 
 ![alt text](image-17.png)
+
+l10
+
+type alias
+
+![alt text](image-18.png)
+
+like struct keyword in c we can degfine our own dataype like this and can use it
+this is type alias
+
+![alt text](image-19.png)
+
+return type also user
+![alt text](image-20.png)
