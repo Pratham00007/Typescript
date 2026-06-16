@@ -71,3 +71,56 @@ this is type alias
 
 return type also user
 ![alt text](image-20.png)
+
+l11 READONLY
+
+made id ro so no one can alter
+![alt text](image-21.png)
+![alt text](image-23.png)
+
+? to make optional parameter
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+l12 uniion type in ts
+
+![alt text](image-27.png)
+![alt text](image-28.png)
+
+![alt text](image-29.png)
+
+![alt text](image-30.png)
+
+![ ](image-31.png)
+
+![ ](image-32.png)
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+
+cant change
+![alt text](image-35.png)
+
+![alt text](image-36.png)
+
+l13 tuples in ts
+
+![alt text](image-37.png)
+
+cant rearrange order
+tuple make sure this
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+
+we can change value
+
+![alt text](image-40.png)
+
+array opr allowed even if disturb the rules of type
+![alt text](image-41.png)
+
