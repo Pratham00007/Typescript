@@ -133,3 +133,12 @@ l 14 interfaces
 ![alt text](image-44.png)
 
 ![alt text](image-45.png)
+
+l15  interfavce vs type
+
+![alt text](image-46.png)
+
+inheritence
+![alt text](image-47.png)
+
+![alt text](image-48.png)
