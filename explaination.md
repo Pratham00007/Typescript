@@ -124,3 +124,12 @@ we can change value
 array opr allowed even if disturb the rules of type
 ![alt text](image-41.png)
 
+l 14 interfaces
+
+
+![alt text](image-42.png)
+![alt text](image-43.png)
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
