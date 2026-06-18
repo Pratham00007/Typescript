@@ -142,3 +142,10 @@ inheritence
 ![alt text](image-47.png)
 
 ![alt text](image-48.png)
+
+l 16  public vs private
+
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+ instaed private in js we have# so to make name private -> #name
