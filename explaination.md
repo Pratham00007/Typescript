@@ -149,3 +149,20 @@ l 16  public vs private
 
 ![alt text](image-50.png)
  instaed private in js we have# so to make name private -> #name
+
+l17 getter and setter
+
+ ![alt text](image-51.png)
+
+ ![alt text](image-52.png)
+
+
+seter has no return type 
+ not even void
+ ![alt text](image-53.png)
+
+ private method
+
+ ![alt text](image-54.png)
+
+ ![alt text](image-55.png)
