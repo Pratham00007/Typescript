@@ -166,3 +166,16 @@ seter has no return type
  ![alt text](image-54.png)
 
  ![alt text](image-55.png)
+
+
+l18 protected
+
+![alt text](image-56.png)
+
+![alt text](image-57.png)
+
+now can be accesbile by parent and child but not other class
+
+![alt text](image-58.png)
+
+![alt text](image-59.png)
