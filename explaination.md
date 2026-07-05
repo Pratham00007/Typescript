@@ -235,3 +235,17 @@ generic in both way
 
 , to tell genrics code not jsx
 ![alt text](image-76.png)
+
+l22 generic classes
+
+![alt text](image-77.png)
+
+![alt text](image-78.png)
+
+![alt text](image-79.png)
+
+![alt text](image-80.png)
+
+![alt text](image-81.png)
+
+![alt text](image-82.png)
