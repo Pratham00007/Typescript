@@ -216,3 +216,22 @@ can use letter instead too
 ![alt text](image-69.png)
 
 ![alt text](image-70.png)
+
+l21 extended generics (Array)
+
+![alt text](image-72.png)
+
+![alt text](image-73.png)
+
+noraml  arrow func
+
+(see code line no)
+![alt text](image-74.png)
+
+generic in both way
+
+![alt text](image-75.png)
+
+
+, to tell genrics code not jsx
+![alt text](image-76.png)
