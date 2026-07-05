@@ -201,3 +201,18 @@ not provide definition just it wil be used now allowed
 
 ![alt text](image-65.png)
 ![alt text](image-66.png)
+
+l20 generics
+
+![alt text](image-71.png)
+
+whartever type we get input that type return 
+![alt text](image-67.png)
+
+![alt text](image-68.png)
+
+can use letter instead too
+
+![alt text](image-69.png)
+
+![alt text](image-70.png)
