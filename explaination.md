@@ -179,3 +179,25 @@ now can be accesbile by parent and child but not other class
 ![alt text](image-58.png)
 
 ![alt text](image-59.png)
+
+l19 abstract
+
+![alt text](image-60.png)
+
+now cant create object of class
+
+![alt text](image-61.png)
+
+can create object from the class inherting it
+
+![alt text](image-62.png)
+
+
+![alt text](image-64.png)
+
+not provide definition just it wil be used now allowed 
+
+![alt text](image-63.png)
+
+![alt text](image-65.png)
+![alt text](image-66.png)
