@@ -287,3 +287,22 @@ not type of fish or bird
 
 now we are sure we returing a fish type
 ![alt text](image-91.png)
+
+l25 discriminated unioin and exhaustiveness
+
+![alt text](image-92.png)
+
+![alt text](image-93.png)
+
+exhaustive switch
+
+but one precautionary need 
+
+![alt text](image-94.png)
+
+![alt text](image-95.png)
+
+never bcs never going to be assigned
+it will never run but help when we left any case in coding
+
+![alt text](image-96.png)
