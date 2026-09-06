@@ -249,3 +249,20 @@ l22 generic classes
 ![alt text](image-81.png)
 
 ![alt text](image-82.png)
+
+l23 type narrowing
+
+![alt text](image-83.png)
+it can be no or string so cant use
+
+![alt text](image-84.png)
+
++3 happens only when its no
+
+extraCautious
+
+![alt text](image-85.png)
+
+not covered all cases is not good
+![](image-86.png)
+array is said as object
