@@ -266,3 +266,24 @@ extraCautious
 not covered all cases is not good
 ![](image-86.png)
 array is said as object
+
+l24 instanceof and type 
+
+instanceof is just like the === just check if it is/ was instance of the class
+
+![alt text](image-87.png)
+
+![alt text](image-88.png)
+
+typecasted by as keyword
+says if it is not undefined and has swim so return true
+
+![alt text](image-89.png)
+stil value unidentified its fish or bird
+![alt text](image-90.png)
+
+bcs isfish returning boolean
+not type of fish or bird 
+
+now we are sure we returing a fish type
+![alt text](image-91.png)
